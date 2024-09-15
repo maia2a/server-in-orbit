@@ -114,10 +114,3 @@ npm test
 
 Feel free to submit pull requests or issues to improve the project. All contributions are welcome!
 """
-
-# Save it to a README.md file
-file_path = "/mnt/data/README.md"
-with open(file_path, "w") as file:
-    file.write(readme_content)
-
-file_path
