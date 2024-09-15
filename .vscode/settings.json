@@ -1,0 +1,9 @@
+{
+  "cSpell.words": [
+    "biomejs",
+    "dayjs",
+    "fastify"
+  ],
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "biomejs.biome",
+}
