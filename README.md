@@ -1,5 +1,4 @@
-# Let's create the README.md file with the content
-readme_content = """
+
 # Server in Orbit
 
 Welcome to **Server in Orbit**, a project designed to simulate a space-bound server environment, exploring innovative ways to handle computation and data transmission between Earth and satellites.
